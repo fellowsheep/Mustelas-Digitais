@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1000" height="1550" viewBox="0 0 1000 1550" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label {
+      font-size: 14px;
+      fill: #333;
+      font-family: sans-serif;
+    }
+  </style>
+
+  <!-- Ferret -->
+  <text x="10" y="60" class="label">Ferret</text>
+  <rect x="120" y="70" width="296" height="103" fill="#e0aaff" />
+
+  <!-- Tayra -->
+  <text x="10" y="210" class="label">Tayra</text>
+  <rect x="120" y="220" width="448" height="174" fill="#caffbf" />
+
+  <!-- European Badger -->
+  <text x="10" y="430" class="label">European Badger</text>
+  <rect x="120" y="440" width="576" height="248" fill="#9bf6ff" />
+
+  <!-- Wolverine -->
+  <text x="10" y="720" class="label">Wolverine</text>
+  <rect x="120" y="730" width="800" height="330" fill="#ffd6a5" />
+
+  <!-- Lesser Grison -->
+  <text x="10" y="1080" class="label">Lesser Grison</text>
+  <rect x="120" y="1090" width="296" height="103" fill="#bdb2ff" />
+
+  <!-- Honey Badger -->
+  <text x="10" y="1230" class="label">Honey Badger</text>
+  <rect x="120" y="1240" width="509" height="255" fill="#ffadad" />
+
+</svg>

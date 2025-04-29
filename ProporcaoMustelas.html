@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Mockup Proporcional - Mustelídeos</title>
+  <style>
+    body {
+      background: #fff8f0;
+      font-family: sans-serif;
+      padding: 20px;
+    }
+    svg {
+      width: 100%;
+      height: auto;
+      max-width: 1000px;
+      display: block;
+      margin: auto;
+      background: #f5f5f5;
+      border: 1px solid #ccc;
+    }
+    .label {
+      font-size: 14px;
+      fill: #333;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Mockup Proporcional dos Mustelídeos (Altura x Comprimento)</h2>
+<p>Escala baseada no comprimento máximo (Wolverine ≈ 105 cm ≈ 800 px)</p>
+
+<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Escala: 1cm ≈ 7.62px (aproximado) -->
+  <!-- Começamos com Y = 40 e incrementamos com altura + padding -->
+
+  <!-- Ferret -->
+  <text x="10" y="60" class="label">Ferret</text>
+  <rect x="120" y="70" width="296" height="103" fill="#e0aaff" />
+  
+  <!-- Tayra -->
+  <text x="10" y="210" class="label">Tayra</text>
+  <rect x="120" y="220" width="448" height="174" fill="#caffbf" />
+
+  <!-- European Badger -->
+  <text x="10" y="430" class="label">European Badger</text>
+  <rect x="120" y="440" width="576" height="248" fill="#9bf6ff" />
+
+  <!-- Wolverine -->
+  <text x="10" y="720" class="label">Wolverine</text>
+  <rect x="120" y="730" width="800" height="330" fill="#ffd6a5" />
+
+  <!-- Lesser Grison -->
+  <text x="10" y="1080" class="label">Lesser Grison</text>
+  <rect x="120" y="1090" width="296" height="103" fill="#bdb2ff" />
+
+  <!-- Honey Badger -->
+  <text x="10" y="1230" class="label">Honey Badger</text>
+  <rect x="120" y="1240" width="509" height="255" fill="#ffadad" />
+
+</svg>
+
+</body>
+</html>
