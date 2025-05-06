@@ -29,21 +29,20 @@ Este projeto:
 ## 📄 Fichas Disponíveis
 
 ### Cartela 1
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Ferret (*Mustela putorius furo*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/Ferret.md)
+- [Texugo europeu (*Meles meles*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/EuropeanBadger.md)
 - [Texugo-do-mel (*Mellivora capensis*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/HoneyBadger.md)
+- [Irara (*Eira barbara*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/Irara.md)
+- [Wolverine / Glutão (*Gulo gulo*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/Wolverine.md)
+- [Furão-pequeno (*Galictis cuja*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/LesserGrison.md)
 
 ### Cartela 2
-
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Arminho (*Mustela erminea*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/Stoat.md)
+- [Marta (*Martes martes*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/PineMarten.md)
+- [Ariranha (*Pteronura brasiliensis*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/Ariranha.md)
+- [Lontra-de-rio (*Lontra longicaudis*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/LontraNeotropical.md)
+- [Lontra-marinha (*Enhydra lutris*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/SeaOtter.md)
+- [Black-footed ferret (*Mustela nigripes*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/BlackFootedFerret.md)
 
 ---
 
