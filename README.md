@@ -28,7 +28,22 @@ Este projeto:
 
 ## 📄 Fichas Disponíveis
 
+### Cartela 1
+- []()
+- []()
+- []()
+- []()
+- []()
 - [Texugo-do-mel (*Mellivora capensis*)](https://github.com/fellowsheep/Mustelas-Digitais/blob/main/HoneyBadger.md)
+
+### Cartela 2
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ---
 

@@ -76,3 +76,7 @@ _(Categoria da IUCN: Least Concern — população estável e ampla distribuiç�
 - **Olhos:** Pretos ovais com brilho especular sutil.
 - **Pelagem:** Máscara clara no dorso, com base escura nas patas e barriga.
 - **Rascunho referência:** versão com boquinha curva fechada, focinho fino e garras visíveis.
+
+**Referência:**  
+Informações científicas adaptadas de: [genuinemustelids.org/family/badgers](https://www.genuinemustelids.org/family/badgers/)
+
