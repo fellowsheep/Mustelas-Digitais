@@ -14,16 +14,17 @@ O furão é uma subespécie domesticada do toirão europeu, criado por humanos h
 ### Referências visuais
 > Coletadas na internet, algumas em baixa resolução. Foi montado um painel no PureRef com um subconjunto de cada espécie.
 
-![Referência visual do furão](imagens/ferret-referencias.png)
+![Referência visual do furão](img/image-46.png)
 
 ### Rascunho
 > Esboço inicial do personagem, feito em estilo tradicional ou digital com traço solto, produzido a partir de várias iterações com sistema de IA Generativa (Chat GPT e Sora), com ajustes manuais, a partir de imagens de referências coletadas na internet.
 
-![Rascunho do furão](imagens/ferret-rascunho.png)
+![Rascunho do furão](img/image-44.png)
+
 
 ### Paleta de cores
 
-![Paleta do furão](imagens/ferret-paleta.png)
+![Paleta do furão](img/image-45.png)
 
 ### Ilustração Digital
 > Versão renderizada no Krita com estilo definido da coleção.
@@ -35,7 +36,7 @@ EM BREVE!
 ## Miniatura de Resina 3D (Concept IA)
 > Concept art para futura modelagem e impressão em resina. Estilo de miniatura de RPG, monocromática, com base.
 
-![Miniatura 3D do furão](image-15.png)
+![Miniatura 3D do furão](img/image-15.png)
 
 
 ---
@@ -43,7 +44,7 @@ EM BREVE!
 ## Ilustração para Livro de Colorir (Lineart)
 > Versão lineart do personagem, em preto e branco, com traços suaves e contornos claros.
 
-![Lineart do furão](imagens/ferret-lineart.png)
+![Lineart do furão](img/image-43.png)
 
 ---
 

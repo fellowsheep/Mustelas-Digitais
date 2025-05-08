@@ -1,50 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Paleta de Cores - Ferret</title>
+  <title>Paleta - Ferret</title>
   <style>
     body {
-      font-family: sans-serif;
-      font-size: 10px;
-      background: #fff;
-      padding: 16px;
+      background: #ffffff;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      padding: 20px;
+      font-family: Arial, sans-serif;
     }
     .swatch {
-      width: 32px;
-      height: 64px;
-      border: 1px solid #aaa;
-      margin-bottom: 8px;
+      width: 80px;
+      height: 80px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 10px;
     }
   </style>
 </head>
 <body>
-  <h2>Paleta - Ferret</h2>
-  <div style="display: flex; gap: 16px;">
-    <div>
-      <div class="swatch" style="background-color: #A57144;"></div>
-      <div>#A57144</div>
-    </div>
-    <div>
-      <div class="swatch" style="background-color: #83502B;"></div>
-      <div>#83502B</div>
-    </div>
-    <div>
-      <div class="swatch" style="background-color: #371E0B;"></div>
-      <div>#371E0B</div>
-    </div>
-    <div>
-      <div class="swatch" style="background-color: #FFEDCB;"></div>
-      <div>#FFEDCB</div>
-    </div>
-    <div>
-      <div class="swatch" style="background-color: #F1D0A2;"></div>
-      <div>#F1D0A2</div>
-    </div>
-    <div>
-      <div class="swatch" style="background-color: #F3AC72;"></div>
-      <div>#F3AC72</div>
-    </div>
-  </div>
+  <div class="swatch" style="background-color: #A57144; color: #ffffff;">#A57144</div>
+  <div class="swatch" style="background-color: #83502B; color: #ffffff;">#83502B</div>
+  <div class="swatch" style="background-color: #371E0B; color: #ffffff;">#371E0B</div>
+  <div class="swatch" style="background-color: #FFEDCB; color: #333333;">#FFEDCB</div>
+  <div class="swatch" style="background-color: #F1D0A2; color: #333333;">#F1D0A2</div>
+  <div class="swatch" style="background-color: #F3AC72; color: #333333;">#F3AC72</div>
 </body>
 </html>
