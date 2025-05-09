@@ -46,6 +46,8 @@ EM BREVE!
 
 ![Lineart do furão](img/image-43.png)
 
+![Lineart do furão](img/image-432.png)
+
 ---
 
 ## Ficha Colecionável
