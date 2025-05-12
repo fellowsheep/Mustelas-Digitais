@@ -15,16 +15,16 @@
 ### Referências visuais
 > Coletadas na internet, algumas em baixa resolução. Foi montado um painel no PureRef com um subconjunto de cada espécie.
 
-![Referência visual do texugo-do-mel](image.png)
+![Referência visual do texugo-do-mel](img/image.png)
 
 ### Rascunho
 > Esboço inicial do personagem, feito em estilo tradicional ou digital com traço solto, produzido a partir de várias iterações com sistema de IA Generativa (Chat GPT e Sora), com ajustes manuais, a partir de imagens de referências coletadas na internet.
 
-![Rascunho do texugo-do-mel](image-1.png)
+![Rascunho do texugo-do-mel](img/image-1.png)
 
 ### Paleta de cores
 
-![Paleta do texugo-do-mel](image-5.png)
+![Paleta do texugo-do-mel](img/image-5.png)
 
 ### Ilustração Digital
 > Versão renderizada no Krita com estilo definido da coleção.
@@ -35,14 +35,14 @@ EM BREVE!
 ## Miniatura de Resina 3D (Concept IA)
 > Concept art para futura modelagem e impressão em resina. Estilo de miniatura de RPG, monocromática, com base.
 
-![Miniatura 3D do texugo-do-mel](image-2.png)
+![Miniatura 3D do texugo-do-mel](img/image-2.png)
 
 ---
 
 ## Ilustração para Livro de Colorir (Lineart)
 > Versão lineart do personagem, em preto e branco, com traços suaves e contornos claros.
 
-![Lineart do texugo-do-mel](image-4.png)
+![Lineart do texugo-do-mel](img/image-4.png)
 
 ---
 
