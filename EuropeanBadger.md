@@ -36,7 +36,7 @@ EM BREVE!
 ## Miniatura de Resina 3D (Concept IA)
 > Concept art para futura modelagem e impressão em resina. Estilo de miniatura de RPG, monocromática, com base.
 
-![Miniatura 3D do texugo-europeu](image-14.png)
+![Miniatura 3D do texugo-europeu](img/image-14.png)
 
 
 
