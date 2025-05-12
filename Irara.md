@@ -19,7 +19,7 @@ A irara é um mustelídeo arborícola nativo das Américas Central e do Sul. Ág
 ### Rascunho
 > Esboço inicial do personagem, feito em estilo tradicional ou digital com traço solto, produzido a partir de várias iterações com sistema de IA Generativa (Chat GPT e Sora), com ajustes manuais, a partir de imagens de referências coletadas na internet.
 
-![Rascunho da irara](imagens/irara-rascunho.png)
+![Rascunho da irara](img/image-48.png)
 
 ### Paleta de cores
 
@@ -35,9 +35,9 @@ EM BREVE!
 ## Miniatura de Resina 3D (Concept IA)
 > Concept art para futura modelagem e impressão em resina. Estilo de miniatura de RPG, monocromática, com base.
 
-![Miniatura 3D da irara](image-20.png)
+![Miniatura 3D da irara](img/image-20.png)
 
-![Miniatura 3D da irara](image-21.png)
+![Miniatura 3D da irara](img/image-21.png)
 
 > Alguns mustelídeos deste projeto possuem mais de uma miniatura pois a geração com IA não conseguiu representar bem em um só exemplo.
 
