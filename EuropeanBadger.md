@@ -19,8 +19,8 @@ O texugo-europeu é um mustelídeo robusto e social que vive em tocas complexas 
 ### Rascunho
 > Esboço inicial do personagem, feito em estilo tradicional ou digital com traço solto, produzido a partir de várias iterações com sistema de IA Generativa (Chat GPT e Sora), com ajustes manuais, a partir de imagens de referências coletadas na internet.
 
-![Rascunho do texugo-europeu](image-12.png)
-![alt text](image-13.png)
+![Rascunho do texugo-europeu](img/image-12.png)
+![alt text](img/image-13.png)
 
 ### Paleta de cores
 
